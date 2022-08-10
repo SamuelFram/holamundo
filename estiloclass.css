@@ -1,0 +1,14 @@
+.ciudad{
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.Paris{
+    color: rgb(255, 0, 0);
+}
+.Londres{
+    color:rgb(52, 165, 42) 
+}
+.BuenosAires{
+    color: rgb(0, 47, 255);
+}

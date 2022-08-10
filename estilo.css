@@ -1,0 +1,41 @@
+body{
+     font-family: Arial, Helvetica, sans-serif;
+     background-image: url(img/dos.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+
+p{
+    font-size: 200%;imn !important
+}
+
+small{
+    font-family:animation: 100%;
+}
+
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+    text-decoration: none;
+}
+
+a:link {
+  color:orange;
+ 
+}
+
+a:visited {
+  color:slateblue;
+  
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline blue;
+}
+
+a:active {
+  color: yellow;
+  text-decoration: none
+}
